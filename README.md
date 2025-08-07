@@ -1,1 +1,1 @@
-# educational-quiz-learning
+# Educational-quiz-learning
